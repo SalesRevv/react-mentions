@@ -1,5 +1,11 @@
 # react-mentions
 
+## 4.6.0
+
+### Minor Changes
+
+- 3edada4: Publishing v4.5.0
+
 ## 4.5.0
 
 ### Minor Changes
