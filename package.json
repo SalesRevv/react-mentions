@@ -1,6 +1,6 @@
 {
-  "name": "react-mentions",
-  "version": "4.6.0",
+  "name": "@sales-revv/react-mentions",
+  "version": "4.5.12",
   "description": "React mentions input",
   "main": "dist/react-mentions.cjs.js",
   "module": "dist/react-mentions.esm.js",
@@ -27,6 +27,9 @@
     "mentions",
     "react-component"
   ],
+  "publishConfig": {
+    "access": "restricted"
+  },
   "browserslist": [
     "chrome >= 50",
     "firefox >= 52",
